@@ -6,7 +6,7 @@ I'm Viktor, full-stack engineer from Hamburg 🇩🇪 working at
 
 I'm passionate about web frotend development, architecture setup and integration. I've also created some libraries to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
 
-#### Project Status
+#### Project Dashboard
 
 Project                                                           | Badges
 ------------------------------------------------------------------|-----------------------------------------------
