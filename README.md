@@ -15,6 +15,8 @@ Project                                                           | Badges
 [persistore](https://github.com/fdc-viktor-luft/persistore)               | [![npm package][persistore-npm-image]][persistore-npm-url] [![Travis][persistore-build-image]][persistore-build-url] [![Coverage Status][persistore-coveralls-image]][persistore-coveralls-url]
 [first-intl](https://github.com/fdc-viktor-luft/first-intl)               | [![npm package][first-intl-npm-image]][first-intl-npm-url] [![Travis][first-intl-build-image]][first-intl-build-url]
 [morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![Travis][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
+[trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![App][trackuler-app-image]][trackuler-app-url]
+[serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![Travis][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
 
 
 
@@ -54,3 +56,13 @@ Project                                                           | Badges
 [morfi-demo-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Demo&color=blue
 [morfi-demo-url]: https://fdc-viktor-luft.github.io/morfi/
 
+[trackuler-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Trackuler&color=blueviolet
+[trackuler-app-url]: https://fdc-viktor-luft.github.io/trackuler/
+
+
+[serialize-as-code-build-image]: https://img.shields.io/travis/fdc-viktor-luft/serialize-as-code/master.svg?style=flat-square
+[serialize-as-code-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/serialize-as-code
+[serialize-as-code-npm-image]: https://img.shields.io/npm/v/serialize-as-code.svg?style=flat-square
+[serialize-as-code-npm-url]: https://www.npmjs.org/package/serialize-as-code
+[serialize-as-code-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/serialize-as-code/badge.svg?branch=master
+[serialize-as-code-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/serialize-as-code?branch=master
