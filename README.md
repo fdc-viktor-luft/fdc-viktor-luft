@@ -4,7 +4,7 @@ I'm Viktor, full-stack engineer from Hamburg 🇩🇪 working at
 
 💻 💻 👉 <a href="https://freiheit.com"><img src="https://freiheit.com/img/logo_white.svg" alt="freiheit logo" width="94" height="16"></a> 👈 💻 💻
 
-I'm passionate about web frotend development, architecture setup and integration. I've also created some libraries to make daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
+I'm passionate about web frotend development, architecture setup and integration. I've also created some libraries to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
 
 #### Project Status
 
@@ -13,6 +13,8 @@ Project                                                           | Badges
 [spy4js](https://github.com/fdc-viktor-luft/spy4js)               | [![npm package][spy4js-npm-image]][spy4js-npm-url] [![Travis][spy4js-build-image]][spy4js-build-url] [![Coverage Status][spy4js-coveralls-image]][spy4js-coveralls-url]
 [react-use-sub](https://github.com/fdc-viktor-luft/react-use-sub) | [![npm package][react-use-sub-npm-image]][react-use-sub-npm-url] [![Travis][react-use-sub-build-image]][react-use-sub-build-url] [![Coverage Status][react-use-sub-coveralls-image]][react-use-sub-coveralls-url]
 [persistore](https://github.com/fdc-viktor-luft/persistore)               | [![npm package][persistore-npm-image]][persistore-npm-url] [![Travis][persistore-build-image]][persistore-build-url] [![Coverage Status][persistore-coveralls-image]][persistore-coveralls-url]
+[first-intl](https://github.com/fdc-viktor-luft/first-intl)               | [![npm package][first-intl-npm-image]][first-intl-npm-url] [![Travis][first-intl-build-image]][first-intl-build-url]
+[morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![Travis][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
 
 
 
@@ -36,3 +38,19 @@ Project                                                           | Badges
 [persistore-npm-url]: https://www.npmjs.org/package/persistore
 [persistore-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/persistore/badge.svg?branch=master
 [persistore-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/persistore?branch=master
+
+[first-intl-build-image]: https://img.shields.io/travis/fdc-viktor-luft/first-intl/master.svg?style=flat-square
+[first-intl-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/first-intl
+[first-intl-npm-image]: https://img.shields.io/npm/v/first-intl.svg?style=flat-square
+[first-intl-npm-url]: https://www.npmjs.org/package/first-intl
+
+
+[morfi-build-image]: https://img.shields.io/travis/fdc-viktor-luft/morfi/master.svg?style=flat-square
+[morfi-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/morfi
+[morfi-npm-image]: https://img.shields.io/npm/v/morfi.svg?style=flat-square
+[morfi-npm-url]: https://www.npmjs.org/package/morfi
+[morfi-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/morfi/badge.svg?branch=master
+[morfi-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/morfi?branch=master
+[morfi-demo-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Demo&color=blue
+[morfi-demo-url]: https://fdc-viktor-luft.github.io/morfi/
+
