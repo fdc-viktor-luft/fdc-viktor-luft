@@ -17,6 +17,8 @@ Project                                                           | Badges
 [morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![Travis][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
 [trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![App][trackuler-app-image]][trackuler-app-url]
 [serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![Travis][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
+[raw-vite-app](https://github.com/fdc-viktor-luft/raw-vite-app)               | [![Build][raw-vite-app-build-image]][raw-vite-app-build-url]
+[svg-editor](https://github.com/fdc-viktor-luft/svg-editor)               | [![App][svg-editor-app-image]][svg-editor-app-url]
 
 
 
@@ -59,10 +61,16 @@ Project                                                           | Badges
 [trackuler-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Trackuler&color=blueviolet
 [trackuler-app-url]: https://fdc-viktor-luft.github.io/trackuler/
 
-
 [serialize-as-code-build-image]: https://img.shields.io/travis/fdc-viktor-luft/serialize-as-code/master.svg?style=flat-square
 [serialize-as-code-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/serialize-as-code
 [serialize-as-code-npm-image]: https://img.shields.io/npm/v/serialize-as-code.svg?style=flat-square
 [serialize-as-code-npm-url]: https://www.npmjs.org/package/serialize-as-code
 [serialize-as-code-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/serialize-as-code/badge.svg?branch=master
 [serialize-as-code-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/serialize-as-code?branch=master
+
+[raw-vite-app-build-image]: https://github.com/fdc-viktor-luft/raw-vite-app/actions/workflows/build.yml/badge.svg
+[raw-vite-app-build-url]: https://github.com/fdc-viktor-luft/raw-vite-app/actions/workflows/build.yml
+
+
+[svg-editor-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=WIP&color=blueviolet
+[svg-editor-app-url]: https://fdc-viktor-luft.github.io/svg-editor/
