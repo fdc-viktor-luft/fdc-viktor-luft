@@ -15,7 +15,7 @@ Project                                                           | Badges
 [persistore](https://github.com/fdc-viktor-luft/persistore)               | [![npm package][persistore-npm-image]][persistore-npm-url] [![Travis][persistore-build-image]][persistore-build-url] [![Coverage Status][persistore-coveralls-image]][persistore-coveralls-url]
 [first-intl](https://github.com/fdc-viktor-luft/first-intl)               | [![npm package][first-intl-npm-image]][first-intl-npm-url] [![Travis][first-intl-build-image]][first-intl-build-url]
 [morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![Travis][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
-[trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![App][trackuler-app-image]][trackuler-app-url]
+[trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![Build][trackuler-build-image]][trackuler-build-url] [![App][trackuler-app-image]][trackuler-app-url]
 [serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![Travis][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
 [raw-vite-app](https://github.com/fdc-viktor-luft/raw-vite-app)               | [![Build][raw-vite-app-build-image]][raw-vite-app-build-url]
 [svg-editor](https://github.com/fdc-viktor-luft/svg-editor)               | [![App][svg-editor-app-image]][svg-editor-app-url]
@@ -58,6 +58,8 @@ Project                                                           | Badges
 [morfi-demo-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Demo&color=blue
 [morfi-demo-url]: https://fdc-viktor-luft.github.io/morfi/
 
+[trackuler-build-image]: https://github.com/fdc-viktor-luft/trackuler/actions/workflows/build.yml/badge.svg
+[trackuler-build-url]: https://github.com/fdc-viktor-luft/trackuler/actions/workflows/build.yml
 [trackuler-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Trackuler&color=blueviolet
 [trackuler-app-url]: https://fdc-viktor-luft.github.io/trackuler/
 
