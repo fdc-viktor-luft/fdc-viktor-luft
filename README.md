@@ -2,7 +2,7 @@
 
 I'm Viktor, full-stack engineer from Hamburg 🇩🇪 working at
 
-💻 💻 👉 <a href="https://freiheit.com"><img src="https://freiheit.com/img/logo_white.svg" alt="freiheit logo" width="94" height="16"></a> 👈 💻 💻
+<p align="center"><a href="https://freiheit.com"><img src="https://freiheit.com/img/logo_white.svg" alt="freiheit logo" width="188" height="32"></a> </p>
 
 I'm passionate about web frotend development, architecture setup and integration. I've also created some libraries to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
 
