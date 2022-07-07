@@ -49,8 +49,8 @@ Project                                                           | Badges
 [first-intl-npm-url]: https://www.npmjs.org/package/first-intl
 
 
-[morfi-build-image]: https://img.shields.io/travis/fdc-viktor-luft/morfi/master.svg?style=flat-square
-[morfi-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/morfi
+[morfi-build-image]: https://github.com/fdc-viktor-luft/morfi/actions/workflows/build.yml/badge.svg
+[morfi-build-url]: https://github.com/fdc-viktor-luft/morfi/actions/workflows/build.yml
 [morfi-npm-image]: https://img.shields.io/npm/v/morfi.svg?style=flat-square
 [morfi-npm-url]: https://www.npmjs.org/package/morfi
 [morfi-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/morfi/badge.svg?branch=master
