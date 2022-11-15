@@ -18,6 +18,7 @@ Project                                                           | Badges
 [trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![Build][trackuler-build-image]][trackuler-build-url] [![App][trackuler-app-image]][trackuler-app-url]
 [serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![GitHub Actions][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
 [raw-vite-app](https://github.com/fdc-viktor-luft/raw-vite-app)               | [![Build][raw-vite-app-build-image]][raw-vite-app-build-url]
+[raw-vue-app](https://github.com/fdc-viktor-luft/raw-vue-app)               | [![Build][raw-vue-app-build-image]][raw-vue-app-build-url]
 [svg-editor](https://github.com/fdc-viktor-luft/svg-editor)               | [![App][svg-editor-app-image]][svg-editor-app-url]
 [brocolito](https://github.com/fdc-viktor-luft/brocolito)               | [![npm package][brocolito-npm-image]][brocolito-npm-url] [![GitHub Actions][brocolito-build-image]][brocolito-build-url]
 
@@ -75,6 +76,9 @@ Project                                                           | Badges
 
 [raw-vite-app-build-image]: https://github.com/fdc-viktor-luft/raw-vite-app/actions/workflows/build.yml/badge.svg
 [raw-vite-app-build-url]: https://github.com/fdc-viktor-luft/raw-vite-app/actions/workflows/build.yml
+
+[raw-vue-app-build-image]: https://github.com/fdc-viktor-luft/raw-vue-app/actions/workflows/build.yml/badge.svg
+[raw-vue-app-build-url]: https://github.com/fdc-viktor-luft/raw-vue-app/actions/workflows/build.yml
 
 [svg-editor-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=WIP&color=blueviolet
 [svg-editor-app-url]: https://fdc-viktor-luft.github.io/svg-editor/
