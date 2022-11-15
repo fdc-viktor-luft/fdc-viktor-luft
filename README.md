@@ -13,7 +13,7 @@ Project                                                           | Badges
 [spy4js](https://github.com/fdc-viktor-luft/spy4js)               | [![npm package][spy4js-npm-image]][spy4js-npm-url] [![GitHub Actions][spy4js-build-image]][spy4js-build-url] [![Coverage Status][spy4js-coveralls-image]][spy4js-coveralls-url]
 [react-use-sub](https://github.com/fdc-viktor-luft/react-use-sub) | [![npm package][react-use-sub-npm-image]][react-use-sub-npm-url] [![Travis][react-use-sub-build-image]][react-use-sub-build-url] [![Coverage Status][react-use-sub-coveralls-image]][react-use-sub-coveralls-url]
 [persistore](https://github.com/fdc-viktor-luft/persistore)               | [![npm package][persistore-npm-image]][persistore-npm-url] [![GitHub Actions][persistore-build-image]][persistore-build-url] [![Coverage Status][persistore-coveralls-image]][persistore-coveralls-url]
-[first-intl](https://github.com/fdc-viktor-luft/first-intl)               | [![npm package][first-intl-npm-image]][first-intl-npm-url] [![Travis][first-intl-build-image]][first-intl-build-url]
+[first-intl](https://github.com/fdc-viktor-luft/first-intl)               | [![npm package][first-intl-npm-image]][first-intl-npm-url] [![Travis][first-intl-build-image]][first-intl-build-url] [![Coverage Status][first-intl-coveralls-image]][first-intl-coveralls-url]
 [morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![GitHub Actions][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
 [trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![Build][trackuler-build-image]][trackuler-build-url] [![App][trackuler-app-image]][trackuler-app-url]
 [serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![GitHub Actions][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
@@ -44,10 +44,12 @@ Project                                                           | Badges
 [persistore-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/persistore/badge.svg?branch=master
 [persistore-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/persistore?branch=master
 
-[first-intl-build-image]: https://img.shields.io/travis/fdc-viktor-luft/first-intl/master.svg?style=flat-square
-[first-intl-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/first-intl
 [first-intl-npm-image]: https://img.shields.io/npm/v/first-intl.svg?style=flat-square
 [first-intl-npm-url]: https://www.npmjs.org/package/first-intl
+[first-intl-build-image]: https://github.com/fdc-viktor-luft/first-intl/actions/workflows/push.yml/badge.svg
+[first-intl-build-url]: https://github.com/fdc-viktor-luft/first-intl/actions/workflows/push.yml
+[first-intl-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/first-intl/badge.svg?branch=master
+[first-intl-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/first-intl?branch=master
 
 
 [morfi-build-image]: https://github.com/fdc-viktor-luft/morfi/actions/workflows/push.yml/badge.svg
