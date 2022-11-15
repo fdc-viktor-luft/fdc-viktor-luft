@@ -63,8 +63,8 @@ Project                                                           | Badges
 [trackuler-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Trackuler&color=blueviolet
 [trackuler-app-url]: https://fdc-viktor-luft.github.io/trackuler/
 
-[serialize-as-code-build-image]: https://img.shields.io/travis/fdc-viktor-luft/serialize-as-code/master.svg?style=flat-square
-[serialize-as-code-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/serialize-as-code
+[serialize-as-code-build-image]: https://github.com/fdc-viktor-luft/serialize-as-code/actions/workflows/push.yml/badge.svg
+[serialize-as-code-build-url]: https://github.com/fdc-viktor-luft/serialize-as-code/actions/workflows/push.yml
 [serialize-as-code-npm-image]: https://img.shields.io/npm/v/serialize-as-code.svg?style=flat-square
 [serialize-as-code-npm-url]: https://www.npmjs.org/package/serialize-as-code
 [serialize-as-code-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/serialize-as-code/badge.svg?branch=master
