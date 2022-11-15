@@ -22,8 +22,8 @@ Project                                                           | Badges
 
 
 
-[spy4js-build-image]: https://img.shields.io/travis/fdc-viktor-luft/spy4js/master.svg?style=flat-square
-[spy4js-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/spy4js
+[spy4js-build-image]: https://github.com/fdc-viktor-luft/spy4js/actions/workflows/push.yml/badge.svg
+[spy4js-build-url]: https://github.com/fdc-viktor-luft/spy4js/actions/workflows/push.yml
 [spy4js-npm-image]: https://img.shields.io/npm/v/spy4js.svg?style=flat-square
 [spy4js-npm-url]: https://www.npmjs.org/package/spy4js
 [spy4js-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/spy4js/badge.svg?branch=master
