@@ -36,8 +36,8 @@ Project                                                           | Badges
 [react-use-sub-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/react-use-sub/badge.svg?branch=master
 [react-use-sub-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/react-use-sub?branch=master
 
-[persistore-build-image]: https://img.shields.io/travis/fdc-viktor-luft/persistore/master.svg?style=flat-square
-[persistore-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/persistore
+[persistore-build-image]: https://github.com/fdc-viktor-luft/persistore/actions/workflows/push.yml/badge.svg
+[persistore-build-url]: https://github.com/fdc-viktor-luft/persistore/actions/workflows/push.yml
 [persistore-npm-image]: https://img.shields.io/npm/v/persistore.svg?style=flat-square
 [persistore-npm-url]: https://www.npmjs.org/package/persistore
 [persistore-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/persistore/badge.svg?branch=master
