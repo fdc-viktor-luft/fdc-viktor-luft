@@ -10,15 +10,16 @@ I'm passionate about web frotend development, architecture setup and integration
 
 Project                                                           | Badges
 ------------------------------------------------------------------|-----------------------------------------------
-[spy4js](https://github.com/fdc-viktor-luft/spy4js)               | [![npm package][spy4js-npm-image]][spy4js-npm-url] [![Travis][spy4js-build-image]][spy4js-build-url] [![Coverage Status][spy4js-coveralls-image]][spy4js-coveralls-url]
+[spy4js](https://github.com/fdc-viktor-luft/spy4js)               | [![npm package][spy4js-npm-image]][spy4js-npm-url] [![GitHub Actions][spy4js-build-image]][spy4js-build-url] [![Coverage Status][spy4js-coveralls-image]][spy4js-coveralls-url]
 [react-use-sub](https://github.com/fdc-viktor-luft/react-use-sub) | [![npm package][react-use-sub-npm-image]][react-use-sub-npm-url] [![Travis][react-use-sub-build-image]][react-use-sub-build-url] [![Coverage Status][react-use-sub-coveralls-image]][react-use-sub-coveralls-url]
-[persistore](https://github.com/fdc-viktor-luft/persistore)               | [![npm package][persistore-npm-image]][persistore-npm-url] [![Travis][persistore-build-image]][persistore-build-url] [![Coverage Status][persistore-coveralls-image]][persistore-coveralls-url]
+[persistore](https://github.com/fdc-viktor-luft/persistore)               | [![npm package][persistore-npm-image]][persistore-npm-url] [![GitHub Actions][persistore-build-image]][persistore-build-url] [![Coverage Status][persistore-coveralls-image]][persistore-coveralls-url]
 [first-intl](https://github.com/fdc-viktor-luft/first-intl)               | [![npm package][first-intl-npm-image]][first-intl-npm-url] [![Travis][first-intl-build-image]][first-intl-build-url]
-[morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![Travis][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
+[morfi](https://github.com/fdc-viktor-luft/morfi)               | [![npm package][morfi-npm-image]][morfi-npm-url] [![GitHub Actions][morfi-build-image]][morfi-build-url] [![Coverage Status][morfi-coveralls-image]][morfi-coveralls-url] [![Demo][morfi-demo-image]][morfi-demo-url] 
 [trackuler](https://github.com/fdc-viktor-luft/trackuler)               | [![Build][trackuler-build-image]][trackuler-build-url] [![App][trackuler-app-image]][trackuler-app-url]
-[serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![Travis][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
+[serialize-as-code](https://github.com/fdc-viktor-luft/serialize-as-code)               | [![npm package][serialize-as-code-npm-image]][serialize-as-code-npm-url] [![GitHub Actions][serialize-as-code-build-image]][serialize-as-code-build-url] [![Coverage Status][serialize-as-code-coveralls-image]][serialize-as-code-coveralls-url]
 [raw-vite-app](https://github.com/fdc-viktor-luft/raw-vite-app)               | [![Build][raw-vite-app-build-image]][raw-vite-app-build-url]
 [svg-editor](https://github.com/fdc-viktor-luft/svg-editor)               | [![App][svg-editor-app-image]][svg-editor-app-url]
+[brocolito](https://github.com/fdc-viktor-luft/brocolito)               | [![npm package][brocolito-npm-image]][brocolito-npm-url] [![GitHub Actions][brocolito-build-image]][brocolito-build-url]
 
 
 
@@ -73,6 +74,10 @@ Project                                                           | Badges
 [raw-vite-app-build-image]: https://github.com/fdc-viktor-luft/raw-vite-app/actions/workflows/build.yml/badge.svg
 [raw-vite-app-build-url]: https://github.com/fdc-viktor-luft/raw-vite-app/actions/workflows/build.yml
 
-
 [svg-editor-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=WIP&color=blueviolet
 [svg-editor-app-url]: https://fdc-viktor-luft.github.io/svg-editor/
+
+[brocolito-build-image]: https://github.com/fdc-viktor-luft/brocolito/actions/workflows/push.yml/badge.svg
+[brocolito-build-url]: https://github.com/fdc-viktor-luft/brocolito/actions/workflows/push.yml
+[brocolito-npm-image]: https://img.shields.io/npm/v/brocolito.svg?style=flat-square
+[brocolito-npm-url]: https://www.npmjs.org/package/brocolito
