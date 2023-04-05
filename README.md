@@ -31,8 +31,8 @@ Project                                                           | Badges
 [spy4js-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/spy4js/badge.svg?branch=master
 [spy4js-coveralls-url]: https://coveralls.io/github/fdc-viktor-luft/spy4js?branch=master
 
-[react-use-sub-build-image]: https://img.shields.io/travis/fdc-viktor-luft/react-use-sub/master.svg?style=flat-square
-[react-use-sub-build-url]: https://app.travis-ci.com/github/fdc-viktor-luft/react-use-sub
+[react-use-sub-build-image]: https://github.com/fdc-viktor-luft/react-use-sub/actions/workflows/push.yml/badge.svg
+[react-use-sub-build-url]: https://github.com/fdc-viktor-luft/react-use-sub/actions/workflows/push.yml
 [react-use-sub-npm-image]: https://img.shields.io/npm/v/react-use-sub.svg?style=flat-square
 [react-use-sub-npm-url]: https://www.npmjs.org/package/react-use-sub
 [react-use-sub-coveralls-image]: https://coveralls.io/repos/github/fdc-viktor-luft/react-use-sub/badge.svg?branch=master
