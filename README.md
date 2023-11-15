@@ -62,8 +62,8 @@ Project                                                           | Badges
 [morfi-demo-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Demo&color=blue
 [morfi-demo-url]: https://fdc-viktor-luft.github.io/morfi/
 
-[trackuler-build-image]: https://github.com/fdc-viktor-luft/trackuler/actions/workflows/build.yml/badge.svg
-[trackuler-build-url]: https://github.com/fdc-viktor-luft/trackuler/actions/workflows/build.yml
+[trackuler-build-image]: https://github.com/fdc-viktor-luft/trackuler/actions/workflows/push.yml/badge.svg
+[trackuler-build-url]: https://github.com/fdc-viktor-luft/trackuler/actions/workflows/push.yml
 [trackuler-app-image]: https://img.shields.io/static/v1?label=Github%20Pages&message=Trackuler&color=blueviolet
 [trackuler-app-url]: https://fdc-viktor-luft.github.io/trackuler/
 
