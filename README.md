@@ -21,6 +21,7 @@ Project                                                           | Badges
 [raw-vue-app](https://github.com/fdc-viktor-luft/raw-vue-app)               | [![Build][raw-vue-app-build-image]][raw-vue-app-build-url]
 [svg-editor](https://github.com/fdc-viktor-luft/svg-editor)               | [![App][svg-editor-app-image]][svg-editor-app-url]
 [brocolito](https://github.com/fdc-viktor-luft/brocolito)               | [![npm package][brocolito-npm-image]][brocolito-npm-url] [![GitHub Actions][brocolito-build-image]][brocolito-build-url]
+[invitations](https://github.com/fdc-viktor-luft/invitations)               | [![GitHub Actions][invitations-build-image]][invitations-build-url]
 
 
 
@@ -87,3 +88,6 @@ Project                                                           | Badges
 [brocolito-build-url]: https://github.com/fdc-viktor-luft/brocolito/actions/workflows/push.yml
 [brocolito-npm-image]: https://img.shields.io/npm/v/brocolito.svg?style=flat-square
 [brocolito-npm-url]: https://www.npmjs.org/package/brocolito
+
+[invitations-build-image]: https://github.com/fdc-viktor-luft/invitations/actions/workflows/deploy.yml/badge.svg
+[invitations-build-url]: https://github.com/fdc-viktor-luft/invitations/actions/workflows/deploy.yml
